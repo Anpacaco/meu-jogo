@@ -4,7 +4,7 @@
 using namespace std;
 
 void exibir(string nome, int vida, int ataque){
-	cout<<"\_"<<nome<<"_/";
+	cout<<"----"<<nome<<"----";
 	cout<<"Vida"<<vida;
 	cout<<"Ataque"<<ataque;
 }
