@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout<<"Meu jogo";
+	std::cout<<"two two game";
 	return 0;
 }
