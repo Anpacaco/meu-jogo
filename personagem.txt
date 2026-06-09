@@ -1,0 +1,3 @@
+nome:John-Game
+Vida:120
+Ataque:45
