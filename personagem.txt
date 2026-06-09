@@ -1,3 +1,7 @@
 nome:John-Game
 Vida:120
 Ataque:45
+...
+nome:Goblin
+Vida:50
+Ataque:20
